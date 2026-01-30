@@ -128,4 +128,4 @@ When adding new assets or updating guidelines:
 
 ## License
 
-All branding assets are proprietary to Project Pica. Usage is restricted to official Pica projects and authorized partners.
+All brand assets are proprietary to Project Pica. Free to use for referential purposes only (identifying or linking to Project Pica). See [LICENSE](LICENSE) for full terms.
