@@ -22,11 +22,21 @@ Pica is a modern platform designed to deliver exceptional user experiences. Our 
 │   ├── colors/         # Color palette exports
 │   ├── fonts/          # Typography files (if licensed for distribution)
 │   └── images/         # Marketing and promotional images
+├── guidelines/         # Brand and design guidelines
+│   ├── COLORS.md       # Color palette documentation
+│   ├── TYPOGRAPHY.md   # Typography guidelines
+│   └── LOGO_USAGE.md   # Logo usage guidelines
 └── templates/          # Design templates and POC examples
 ```
 
 ## Quick Links
 
+### Guidelines
+- [Color Palette](guidelines/COLORS.md) - Magpie Palette for light and dark modes
+- [Typography](guidelines/TYPOGRAPHY.md) - Font families, type scale, and best practices
+- [Logo Usage](guidelines/LOGO_USAGE.md) - Logo versions, clear space, and usage rules
+
+### Templates
 - [Light Mode Dashboard POC](templates/dashboard-light-poc.html)
 
 ## Voice and Tone
@@ -67,6 +77,8 @@ Our color system is inspired by the magpie's distinctive plumage, available in b
 | Accent 2 | Royal Indigo | `#2E3192` |
 | Text | Cloud White | `#F2F2F2` |
 
+For complete color specifications, CSS variables, and usage guidelines, see the [Color Palette documentation](guidelines/COLORS.md).
+
 ### Logo Variants
 
 | Mode | File | Usage |
@@ -74,18 +86,21 @@ Our color system is inspired by the magpie's distinctive plumage, available in b
 | Light | `assets/logos/pica-logo-primary.png` | White/light backgrounds |
 | Dark | `assets/logos/pica-logo-dark-mode.png` | Dark backgrounds |
 
+For detailed logo usage rules, clear space requirements, and approved backgrounds, see the [Logo Usage documentation](guidelines/LOGO_USAGE.md).
+
 ## Usage
 
 ### For Developers
 
 When implementing UI components, refer to:
-- Color values and CSS variables documented in this README
+- [Color Palette](guidelines/COLORS.md) for color values and CSS variables
+- [Typography](guidelines/TYPOGRAPHY.md) for font stacks and type scale
 - Logo assets in `assets/logos/`
 - POC templates in `templates/`
 
 ### For Designers
 
-Design templates and examples can be found in the `templates/` directory.
+Design templates and examples can be found in the `templates/` directory. Refer to the [guidelines](guidelines/) folder for brand specifications.
 
 ## Do's and Don'ts
 
