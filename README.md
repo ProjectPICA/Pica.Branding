@@ -22,17 +22,12 @@ Pica is a modern platform designed to deliver exceptional user experiences. Our 
 │   ├── colors/         # Color palette exports
 │   ├── fonts/          # Typography files (if licensed for distribution)
 │   └── images/         # Marketing and promotional images
-├── templates/          # Design templates and POC examples
-├── COLORS.md           # Color palette specifications
-├── TYPOGRAPHY.md       # Typography guidelines
-└── LOGO_USAGE.md       # Logo usage guidelines
+└── templates/          # Design templates and POC examples
 ```
 
 ## Quick Links
 
-- [Color Palette](COLORS.md) - Light & Dark mode (Magpie Palette)
-- [Typography](TYPOGRAPHY.md)
-- [Logo Usage](LOGO_USAGE.md)
+- [Light Mode Dashboard POC](templates/dashboard-light-poc.html)
 
 ## Voice and Tone
 
@@ -84,8 +79,7 @@ Our color system is inspired by the magpie's distinctive plumage, available in b
 ### For Developers
 
 When implementing UI components, refer to:
-- Color values and CSS variables in `COLORS.md`
-- Typography specifications in `TYPOGRAPHY.md`
+- Color values and CSS variables documented in this README
 - Logo assets in `assets/logos/`
 - POC templates in `templates/`
 
