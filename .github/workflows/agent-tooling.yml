@@ -1,0 +1,16 @@
+name: Agent Tooling
+
+# Vendored agent tooling (.claude/, from ProjectPICA/Pica.Claude) must not be edited in place.
+on:
+  push:
+    branches: [main]
+    paths: ['.claude/**']
+  pull_request:
+    paths: ['.claude/**']
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    uses: ProjectPICA/Pica.Actions/.github/workflows/check-agent-tooling.yml@main

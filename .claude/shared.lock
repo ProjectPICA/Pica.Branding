@@ -1,0 +1,22 @@
+{
+  "source": "ProjectPICA/Pica.Claude (shared/) \u2014 edit there and run scripts/sync-agent-tooling.py",
+  "files": {
+    ".claude/agents/code-reviewer.md": "880ac4383490b17ca62a4acf71effb11922b529fac567e2885e4e257e65eb625",
+    ".claude/agents/documentation-reviewer.md": "a9c9cb44a7d03dd73aaf248ebc32328de1cc93f7aa72cd6be4fcf0e5bd3aea97",
+    ".claude/agents/documentor.md": "c08a4c92843a3f154a9db43238ed6beeedd55e4f22035ccd145f3ccf5c80ac25",
+    ".claude/agents/domain-analyst.md": "3ce5f64d5a5602272f35ef66bf9a9a8630a0298c8259876a2949d4e7cce58f1d",
+    ".claude/agents/solution-architect.md": "ad3b5bb670add043baf34709b9b660a5d520b479d2aa63e308ee752c4e6261d1",
+    ".claude/agents/spec-test-author.md": "54acda5b6ddc261e3c323aa2a6605d1cfb734caaa8837482c459d33d0faadc08",
+    ".claude/check_shared.py": "0c9b6c1664fcdc9b8591be0f535592fc7e21ed41f504bc47d439866601fc98dc",
+    ".claude/hooks/format_lint.py": "9fe6affd598f5bb6576a1a9d99f604f3f9e499190228431e297baf028ea465c9",
+    ".claude/hooks/guard.py": "d0514cb94882fed893ca34ece4c506e7eee4d643dc04eae1786342d2cb190b4d",
+    ".claude/rules/code-quality.md": "37dd519b087df2e85894eb6da341a2e0bfa94b939ca76d992c3505ce15b977f4",
+    ".claude/rules/docs-and-diagrams.md": "8e01f0db3862293737a2d312d82e8e16219c2b2658432ee8c3c9a2782ffb7872",
+    ".claude/rules/environment-isolation.md": "1685dbe1b481d90dd84b0048f8d3ee260de11bca5b5c60f52e6e8c73e3158539",
+    ".claude/rules/working-agreement.md": "4f45df9f31e628ee442cecf14aaa9d5f0af4d91f526ab1e090abcaab4f1ed1fb",
+    ".claude/settings.json": "1349f5141ff5ee0bffa9649c8373ebcc45c2809f3beeb1d0b6f98d35defd2743",
+    ".claude/skills/pica-docs-sync/SKILL.md": "79db2c9282f8f5a44ed3f7464ebb050944672dc38f863a1af5f773c923e19cfa",
+    ".claude/skills/pica-docs-sync/page-templates.md": "dce513ba383a9a0c2075ad04aa2560009202f84eb31983e8d052a7baf7b7bf31",
+    ".claude/skills/pica-story/SKILL.md": "4aed086914882ae49423dd27c5607eafad5adb0e53b53b5f92e46a541de19b59"
+  }
+}

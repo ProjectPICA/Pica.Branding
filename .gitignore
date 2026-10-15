@@ -24,3 +24,8 @@ build/
 # Temporary files
 *.tmp
 *.temp
+
+# Local Claude Code state
+.claude/settings.local.json
+.claude/scratch/
+.claude/worktrees/
